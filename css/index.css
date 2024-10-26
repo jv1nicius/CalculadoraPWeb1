@@ -1,0 +1,16 @@
+body    {
+    background-image: url(../imagem/backImg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1500px;
+    max-height: 720px;
+}
+
+div.start-50 {
+    border-color: #7c7c7c;
+    background-color: #e2e1e3;
+}
+
+form {
+    width: 700px;
+}
