@@ -1,5 +1,5 @@
 body    {
-    background-image: url(../imagem/backImg.jpg);
+    background-image: url(../imagem/backpc.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 1500px;
@@ -13,4 +13,13 @@ div.start-50 {
 
 form {
     width: 700px;
+}
+
+@media only screen and (max-width: 1080px){
+    body {
+        background-image: url(../imagem/backm.jpg);
+    }
+    form {
+        width: 280px;
+    }
 }
